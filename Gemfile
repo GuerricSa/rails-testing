@@ -79,4 +79,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 
+  # show screenshots of test browsers
+  gem "launchy"
+
 end
